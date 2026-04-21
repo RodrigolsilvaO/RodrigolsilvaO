@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B5CF6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rodrigo+Oliveira!;Técnico+de+Telecomunicações+na+Vivo;Dev+em+Formação;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B5CF6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rodrigo+Oliveira!;Desenvolvedor+.NET+%2F+C%23+Júnior;Recém-formado+em+ADS+pela+Estácio;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -13,18 +13,18 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre Mim
 
 ```text
-🏢 Técnico de Telecomunicações na Vivo Telefônica há +14 anos
-🌟 Membro da Equipe VIP (Equipe V)
-🎓 Cursando Análise e Desenvolvimento de Sistemas @ Estácio
-💻 Dev em Formação — apaixonado por tecnologia e inovação
+💻 Desenvolvedor .NET / C# Júnior — atuando em sistema TMS (logística)
+🎓 Recém-formado em Análise e Desenvolvimento de Sistemas @ Estácio (2025)
+🌐 Background: 14 anos em telecomunicações na Vivo (Equipe VIP)
+🚀 Stack: C#, ASP.NET, SQL Server, JavaScript, Git
 📍 Brasília - DF, Brasil
 ```
 
-- **14+ anos** de experiência em telecomunicações na **Vivo Telefônica**
-- Especialista em redes **GPON/FTTH** e protocolos **TCP/IP**
-- Estudando **Análise e Desenvolvimento de Sistemas** na **Estácio**
-- Construindo minha transição para o mundo do **desenvolvimento de software**
-- Sempre buscando aprender e evoluir na área de tecnologia
+- **Desenvolvedor .NET/C# Jr** atuando em sistema corporativo de **gestão de transportes (TMS)**
+- **Recém-formado** em Análise e Desenvolvimento de Sistemas pela Estácio (Set/2025)
+- **14+ anos** de experiência prévia em **infraestrutura de redes e telecomunicações** (Vivo — Equipe VIP)
+- Entregas no ciclo completo: **branch → PR → code review → homologação → deploy**
+- Buscando oportunidades em **.NET, C#, Back-end e Full-Stack**
 
 ---
 
@@ -32,29 +32,33 @@
 
 <div align="center">
 
-### Linguagens & Web
+### Back-end
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Banco de Dados
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas & Versionamento
+### Ferramentas & Fluxo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Sistemas Operacionais
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Telecomunicações
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=cisco&logoColor=white)
-![GPON/FTTH](https://img.shields.io/badge/GPON%2FFTTH-6A0DAD?style=for-the-badge&logo=fiber&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes-0A66C2?style=for-the-badge&logo=ethernet&logoColor=white)
+### Metodologias
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge)
+![Code Review](https://img.shields.io/badge/Code_Review-24292E?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -64,14 +68,15 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java_Avançado-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-009688?style=for-the-badge&logo=swagger&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-8B5CF6?style=for-the-badge)
 
 </div>
 
-> Focado em **back-end com Java** e no ecossistema **Spring**, construindo uma base sólida para a transição de carreira para desenvolvimento de software.
+> Aprofundando no ecossistema **.NET moderno**: APIs RESTful, Entity Framework, padrões de arquitetura (Clean Architecture, SOLID) e boas práticas de código.
 
 ---
 
@@ -79,13 +84,12 @@
 
 <div align="center">
 
-| Projeto | Descricao | Tecnologias | Link |
+| Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
-| ⚽ **Sorteio de Times** | App para organizar peladas - confirmacao de jogadores e sorteio equilibrado de times | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Demo](https://rodrigolsilvao.github.io/sorteio-futebol/) |
-| 🌐 **Portfolio Pessoal** | Site dark mode com design moderno e responsivo | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Demo](https://rodrigolsilvao.github.io/portfolio-rodrigo-oliveira/) |
-| ☕ **Gerenciamento de OS** | Sistema CRUD de Ordens de Servico com POO completa | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [Repo](https://github.com/RodrigolsilvaO/sistema-gerenciamento-java) |
-| ⚽ **Sorteio de Times** | App para organizar peladas - ate 6 times com sorteio equilibrado | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Demo](https://rodrigolsilvao.github.io/sorteio-futebol/) |
-| 📊 **Avaliacao 360** | Sistema anonimo de avaliacao de gestores com dashboard e Google Sheets | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Demo](https://rodrigolsilvao.github.io/avaliacao-360/) |
+| 📊 **Avaliação 360** | Sistema anônimo de avaliação de gestores com dashboard e Google Sheets | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Demo](https://rodrigolsilvao.github.io/avaliacao-360/) |
+| ⚽ **Sorteio de Times** | App para organizar peladas — confirmação de jogadores e sorteio equilibrado | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Demo](https://rodrigolsilvao.github.io/sorteio-futebol/) |
+| ☕ **Gerenciamento de OS** | Sistema CRUD de Ordens de Serviço com POO completa | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [Repo](https://github.com/RodrigolsilvaO/sistema-gerenciamento-java) |
+| 🌐 **Portfólio Pessoal** | Site dark mode com design moderno e responsivo | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [Demo](https://rodrigolsilvao.github.io/portfolio-rodrigo-oliveira/) |
 
 </div>
 
@@ -105,25 +109,13 @@
 
 ---
 
-## 🐍 Minhas Contribuições
-
-<div align="center">
-
-![Snake animation](https://github.com/RodrigolsilvaO/RodrigolsilvaO/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> Para ativar a animação da cobra, configure o **GitHub Actions** no repositório com o workflow [snk](https://github.com/Platane/snk). Crie o arquivo `.github/workflows/snake.yml` no repositório.
-
----
-
 ## 🤝 Conecte-se Comigo
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigothamara92@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigol.silvadev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoleitedev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigolsilvaO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 </div>
 
